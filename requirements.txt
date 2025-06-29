@@ -1,0 +1,15 @@
+# Chess Board GUI Requirements
+# Core dependencies for chess board functionality
+
+# GUI and screenshot functionality
+Pillow>=9.0.0
+
+# No other external packages required - uses Python standard library:
+# - tkinter (GUI framework)
+# - re (regular expressions)
+# - typing (type hints)
+# - uuid (unique identifiers)
+# - os (file operations)
+# - time (timing functions)
+
+# This file is for documentation purposes 
