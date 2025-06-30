@@ -24,6 +24,7 @@ Thumbs.db
 
 # Generated datasets and images
 boards/
+diverse_dataset/
 dataset/
 *.png
 *.jpg

@@ -13,3 +13,29 @@ Pillow>=9.0.0
 # - time (timing functions)
 
 # This file is for documentation purposes 
+
+# Chess Board AI Training Requirements
+
+# Core ML dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Image processing
+Pillow>=9.0.0
+
+# System monitoring
+psutil>=5.8.0
+GPUtil>=1.4.0
+
+# Optional: For better performance monitoring
+tensorboard>=2.10.0
+
+# GUI and screenshot functionality (existing)
+# - tkinter (GUI framework) - included with Python
+# - re (regular expressions) - included with Python
+# - typing (type hints) - included with Python
+# - uuid (unique identifiers) - included with Python
+# - os (file operations) - included with Python
+# - time (timing functions) - included with Python 
